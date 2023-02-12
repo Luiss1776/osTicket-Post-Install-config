@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 CONFIGURING ROLES 
 
-First go to the Admin panel, scroll down to agents, and click add new roles. Once clicked we can name our new role, name the role and allow any permissions such as tickets, tasks, or knowledge bases you may want an agent to have. For this example, we will check in all the boxes under permissions for, Tickets and tasks. Once done, click, “add role” and osTicket should successfully deploy the new role into the database.
+First go to the Admin panel, scroll down to agents, and click "Add new role." Once clicked, we can now name our new role and allow any permissions such as tickets, tasks, or knowledge bases you may want an agent to have. For this example, we will check in all the boxes under permissions for, Tickets and tasks. Once done, click, “Add role” and osTicket should successfully deploy the new role into the database.
 </p>
 <br />
 
