@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/StaKLhK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-CONFIGURING ROLES 
+Configuring Roles 
 
 First go to the Admin panel, scroll down to agents, and click "Add new role." Once clicked, we can now name our new role and allow any permissions such as tickets, tasks, or knowledge bases you may want an agent to have. For this example, we will check in all the boxes under permissions for, Tickets and tasks. Once done, click, “Add role” and osTicket should successfully deploy the new role into the database.
 </p>
@@ -48,7 +48,7 @@ Configuring Departments
 
 By configuring departments we will go to the admin panel, click agents, scroll to departments, and click add new departments. Once clicked, fill out any information needed for the osTicket new department section. For this example, we will create the departments with default settings. The new department created should be added in the Departments section once completed. 
 
-Configure teams 
+Configuring Teams 
 
 Adding Teams allows you to pull Agents from different Departments and arrange them to handle a specific matter or user via a Help Topic or Ticket Filter. 
 
@@ -61,7 +61,7 @@ To configure a team, go to the admin panel, click agents, scroll to team's, and 
 <img src="https://i.imgur.com/NOoEeYE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Agents. 
+Configuring Agents. 
   
 Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. 
 
@@ -75,7 +75,7 @@ By doing this, we will add a few agents by going to the admin panel. Once in the
 <img src="https://i.imgur.com/tHaENIW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-CONFIGURING USERS 
+Configuring Users
   
 Users are clients or customers that send tickets through the osTicket regarding an issue. Users can be added or deleted from the User Directory of the help desk at any time. Note, if the user is deleted the tickets of the user must also be deleted.
 
