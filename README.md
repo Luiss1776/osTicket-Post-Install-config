@@ -82,3 +82,17 @@ Users are clients or customers that send tickets through the osTicket regarding 
 We will configure these users by going into the agent panel on the top right of osTicket. When clicked, scroll down to the add new user tab, and enter any information regarding the user. When done, the new users will now be entered into the osTicket database. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/FcPASDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring SLA's 
+
+To configure SLA’s we will go back to the admin tab on the top right of osTicket. Once clicked scroll to manage and then down to SLAs. For this example, we will create 3 SLA’s regarding their severity. When done you can create a new SLA by hitting the button, “add new.” Enter any information regarding the SLA’s in the osTicket database. The 3 examples and severities should be similar to the ones above regarding their categories and priorities in a certain time frame. 
+
+Configuring Help Desk Topics
+
+Users can choose a help desk topic based on the users needs, such as, password resets, login issues or equipment refresh. by doing this, we will configure help desk topics by going into the admin panel, scroll to, “Add new Help Topic.” From there, you can enter the topic and any details needed regarding the issue. When done press save and the new help topic will be store into the osTicket database.
+</p>
+<br />
