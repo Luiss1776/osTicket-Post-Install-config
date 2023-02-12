@@ -66,3 +66,14 @@ Configure Agents.
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/tHaENIW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+CONFIGURING USERS 
+Users are clients or customers that send tickets through the osTicket regarding an issue. Users can be added or deleted from the User Directory of the help desk at any time. Note, if the user is deleted the tickets of the user must also be deleted.
+
+We will configure these users by going into the agent panel on the top right of osTicket. When clicked, scroll down to the add new user tab, and enter any information regarding the user. When done, the new users will now be entered into the osTicket database. 
+</p>
+<br />
